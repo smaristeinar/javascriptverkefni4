@@ -1,0 +1,113 @@
+{
+    "results": [
+      {
+        "eventDateName": "Vínartónleikar 2015",
+        "name": "Græn - tónleikaröð",
+        "dateOfShow": "2015-01-08T19:30:00",
+        "userGroupName": "Harpa",
+        "eventHallName": "Eldborg",
+        "imageSource": "batur.jpg",
+        "price": 100
+      },
+      {
+        "eventDateName": "Föstudagsfreistingar 09.01",
+        "name": "bla bla",
+        "dateOfShow": "2015-01-09T12:00:00",
+        "userGroupName": "Miðasala MAk",
+        "eventHallName": "Hamrar",
+        "imageSource": "batur.jpg",
+        "price" : 250
+      },
+      {
+        "eventDateName": "Techno Hátíð 2020",
+        "name": "KAS:ST",
+        "dateOfShow": "2020-03-07T20:30:00",
+        "userGroupName": "Harpa",
+        "eventHallName": "Eldborg",
+        "imageSource": "https://img.discogs.com/BKlPxXbkuOAqHxt2s3B5q52WUqk=/600x400/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-5018073-1516750954-7630.jpeg.jpg",
+        "price": 100
+      },
+      {
+        "eventDateName": "Techno Hátíð 2020",
+        "name": "I Hate Models",
+        "dateOfShow": "2020-03-0T820:30:00",
+        "userGroupName": "Harpa",
+        "eventHallName": "Eldborg",
+        "imageSource": "https://img.discogs.com/PKU-yRZh4JOQIMNhQUKFIIwPFVU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-5176527-1495816880-4910.png.jpg",
+        "price": 140
+      },
+      {
+        "eventDateName": "Thecno Hátíð 2020",
+        "name": "FJAAK",
+        "dateOfShow": "2020-03-07T20:30900",
+        "userGroupName": "Harpa",
+        "eventHallName": "Eldborg",
+        "imageSource": "https://f4.bcbits.com/img/0017772293_10.jpg",
+        "price": 150
+      },
+      {
+        "eventDateName": "Iceland Hardcore",
+        "name": "une misere",
+        "dateOfShow": "2020-06-13T19:30:00",
+        "userGroupName": "HxC",
+        "eventHallName": "Gaukurinn",
+        "imageSource": "https://f4.bcbits.com/img/0017768200_10.jpg",
+        "price": 100
+      },
+      {
+        "eventDateName": "Iceland Hardcore",
+        "name": "xGaddavírx",
+        "dateOfShow": "2020-06-14T19:30:00",
+        "userGroupName": "HxC",
+        "eventHallName": "Gaukurinn",
+        "imageSource": "https://img.discogs.com/X3j7MUzcWg7P0Gf1VAgotERk9Ms=/600x540/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-6339972-1520077773-3912.jpeg.jpg",
+        "price": 125
+      },
+      {
+        "eventDateName": "Iceland Hardcore",
+        "name": "Great grief",
+        "dateOfShow": "2020-06-15T13:30:00",
+        "userGroupName": "HxC",
+        "eventHallName": "Gaukurinn",
+        "imageSource": "https://www.metalmusicarchives.com/images/artists/great-grief-20170313070636.jpg",
+        "price": 130
+      },
+      {
+        "eventDateName": "SlammFest",
+        "name": "Gutteral slug",
+        "dateOfShow": "2020-08-01T19:30:00",
+        "userGroupName": "slamm",
+        "eventHallName": "kjallarinn hjá eh gæja",
+        "imageSource": "https://img.discogs.com/M8r99jIqLcD6x900TA6ZmXyz5gE=/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5010075-1382038081-3905.jpeg.jpg",
+        "price": 450
+      },
+      {
+        "eventDateName": "SlammFest",
+        "name": "vulvodynia",
+        "dateOfShow": "2020-08-01T19:30:00",
+        "userGroupName": "slamm",
+        "eventHallName": "kjallarinn hjá eh gæja",
+        "imageSource": "https://www.metal-archives.com/images/3/5/4/0/3540381723_photo.jpg?3405",
+        "price": 325
+      },
+      {
+        "eventDateName": "Trommur og bassi",
+        "name": "Moresounds",
+        "dateOfShow": "2020-01-08T19:30:00",
+        "userGroupName": "dnb",
+        "eventHallName": "úti",
+        "imageSource": "https://assets.bassrush.com/uploads/2015/10/DubAndJungleStylesClashInTheWorldOfMoresounds_710x380.jpg",
+        "price": 340
+      },
+      {
+        "eventDateName": "Trommur og bassi",
+        "name": "Ed Solo & Deekline",
+        "dateOfShow": "2020-01-19T19:30:00",
+        "userGroupName": "dnb",
+        "eventHallName": "úti",
+        "imageSource": "https://wearerebelbass.com/wp-content/uploads/2018/02/DVCNylPWsAAD9r2.jpg",
+        "price": 380
+      }
+      
+    ]
+  }
